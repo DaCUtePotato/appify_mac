@@ -17,4 +17,4 @@ appify path_to_your_.app_file
 ```
 after that your mac should be signing the application and unless it's broken, it can be launched now :D
 
-**Note that some apps are unsafe and may harm your computer or compromize your security. I am not responsible for any kinds of damage.**
+**Note that some apps are unsafe and may harm your computer or compromise your security. I am not responsible for any kinds of damage.**
