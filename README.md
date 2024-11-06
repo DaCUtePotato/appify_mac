@@ -1,6 +1,6 @@
 # Appify
 ## Brief Introduction?
-Appify is quick and easy way to sign your mac apps locally. 
+Appify is quick and easy way to sign your mac apps locally. (intended more for the non-admin Mac userbase such as meeeeeeeeee)
 Ever had the problem that a shady app you just downloaded from a weird, 10-yo website doesn't get executed because your mac thinks it isn't verified and deems it unsafe? Fear no more for I have a solution: *drumroll* **appify!!** *victory music*. 
 
 ## Installation
