@@ -11,7 +11,7 @@ chmod +x path_to_the_sh
 After that you can remove the sh extension and move it to your bin folder (usr/local/bin). You will need admin for this. Alternatively you can make a custom bin folder and move it there. 
 
 ## Usage
-After the installation, you can run applify in your terminal now! Its usage is as follows:
+After the installation, you can run appify in your terminal now! Its usage is as follows:
 ```
 appify path_to_your_.app_file
 ```
